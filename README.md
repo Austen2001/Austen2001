@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Austen Wong
 
-<!--
-**Austen2001/Austen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master of Marine Biology student at James Cook University with interests in marine science, coral reef conservation, restoration, and reproducible data workflows.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am developing skills in R programming, RStudio projects, Git, GitHub, and reproducible research workflows through MB5370 Techniques in Marine Science 1.
+
+## MB5370 Programming Fundamentals
+
+This repository contains my programming workflow, R scripts, project folder structure, Git practice, and reproducible project setup for MB5370.
+
+[View my MB5370 workshop repository](https://github.com/Austen2001/Workshop-MB5370)
+
+## Skills I am developing
+
+R programming  
+RStudio projects  
+Git and GitHub version control  
+Reproducible research workflows  
+Scientific reporting with R Markdown and Quarto
