@@ -19,3 +19,9 @@ RStudio projects
 Git and GitHub version control  
 Reproducible research workflows  
 Scientific reporting with R Markdown and Quarto
+## MB5370 Projects
+
+- [Programming Fundamentals](https://github.com/Austen2001/Workshop-MB5370)
+- [R for Marine Science](https://github.com/Austen2001/R4MarineScience)
+- [Marine Genomics](https://github.com/Austen2001/MB5370-Marine-Genomics)
+- [Global Analysis](https://github.com/Austen2001/Global-Analysis)
