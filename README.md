@@ -6,9 +6,9 @@ I am a Master of Marine Biology student at James Cook University with interests 
 
 I am developing skills in R programming, RStudio projects, Git, GitHub, and reproducible research workflows through MB5370 Techniques in Marine Science 1.
 
-## MB5370 Programming Fundamentals
+## MB5370
 
-This repository contains my programming workflow, R scripts, project folder structure, Git practice, and reproducible project setup for MB5370.
+MB5370 introduced me to a range of data skills used in marine science, including R, spatial analysis, marine genomics, Google Earth Engine and reproducible workflows.
 
 [View my MB5370 workshop repository](https://github.com/Austen2001/Workshop-MB5370)
 
