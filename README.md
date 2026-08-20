@@ -12,13 +12,17 @@ This repository contains my programming workflow, R scripts, project folder stru
 
 [View my MB5370 workshop repository](https://github.com/Austen2001/Workshop-MB5370)
 
-## Skills I am developing
+## Skills
 
-R programming  
-RStudio projects  
-Git and GitHub version control  
-Reproducible research workflows  
-Scientific reporting with R Markdown and Quarto
+- R and RStudio
+- Data cleaning and visualization
+- Spatial analysis
+- Google Earth Engine
+- JavaScript
+- Marine genomics
+- Command line workflows
+- Git and GitHub
+  
 ## MB5370 Projects
 
 - [Programming Fundamentals](https://github.com/Austen2001/Workshop-MB5370)
